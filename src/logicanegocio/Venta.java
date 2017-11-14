@@ -32,6 +32,8 @@ public class Venta {
         }
         return r;
     }
+    
+    
 
     public Inventario getInventario() {
         return inventario;
